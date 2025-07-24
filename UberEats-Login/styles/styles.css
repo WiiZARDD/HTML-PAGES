@@ -1,0 +1,221 @@
+html, body {
+    margin: 0;
+  }
+
+header {
+    background-color: black;
+  }
+
+input {
+    padding: 15px;
+    width: 255px;
+    border: none;
+    background-color: #e8e8e8;
+    border-radius: 6px;
+    margin-bottom: 5px;
+}
+
+.inputContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.appl {
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    background-color: #E8E8E8;
+    align-items: center;
+    justify-content: center;
+    width: 280px;
+    height: 45px;
+    border: none;
+    border-radius: 6px;
+    font-family: "Noto Sans", sans-serif;
+    cursor: pointer;
+}
+
+.applico {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.applSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7px;
+}
+
+.box {
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.btn {
+    padding: 15px;
+    margin-top: 5px;
+    width: 285px;
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+}
+
+.btn:hover {
+    padding: 15px;
+    margin-top: 5px;
+    width: 285px;
+    border-radius: 10px;
+    background-color: rgb(24, 24, 24);
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+    transition: 0.5s ease;
+    border: none;
+}
+
+.btnContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container2 {
+    background-color: rgb(255, 255, 255);
+    width: 280px;
+    margin-left: 86px
+}
+
+.msg {
+    display: flex;
+    justify-content: center;
+    height: 90px;
+}
+
+.msgtext {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family: "Roboto", sans-serif;
+    white-space: pre-line;
+}
+
+.qrSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.qr {
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    background-color: #E8E8E8;
+    align-items: center;
+    justify-content: center;
+    width: 280px;
+    height: 45px;
+    border: none;
+    border-radius: 6px;
+    font-family: "Noto Sans", sans-serif;
+    cursor: pointer;
+}
+
+.qrCode {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.head {
+    padding: 20px;
+}
+
+.ico {
+    margin-left: 30px;
+}
+
+.divider {
+    display: flex;
+    align-items: center;
+    color: #6B6B6B;
+    font-weight: 500;
+    font-size: 0.9rem;
+    margin: 1rem 0;
+    font-family: "Noto Sans", sans-serif;
+  }
+
+  .divider::before,
+  .divider::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #6B6B6B;
+  }
+
+  .divider::before {
+    margin-right: 0.75em;
+  }
+
+  .divider::after {
+    margin-left: 0.75em;
+  }
+
+.footContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foot {
+    background-color: rgb(255, 255, 255);
+    color: #6B6B6B;
+    width: 280px;
+    font-size: 12px;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.footext {
+    color: white;
+}
+
+.goo {
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    background-color: #E8E8E8;
+    align-items: center;
+    justify-content: center;
+    width: 280px;
+    height: 45px;
+    border: none;
+    border-radius: 6px;
+    font-family: "Noto Sans", sans-serif;
+    cursor: pointer;
+}
+
+.gooico {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.gooSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

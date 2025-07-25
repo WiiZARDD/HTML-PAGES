@@ -9,7 +9,7 @@ A curated collection of clean, responsive HTML templates designed to jump‑star
 ## Themes
 
 <details>
-  <summary>▶ X Clone</summary>
+  <summary>▶ 𝕏 Clone</summary>
 
   ![Preview](https://i.imgur.com/v6HTp5N.png)
 

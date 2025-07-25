@@ -17,6 +17,22 @@ A curated collection of clean, responsive HTML templates designed to jump‑star
 </details>
 
 <details>
+  <summary>▶ Uber Eats Clone</summary>
+
+  ![Preview](https://i.imgur.com/RTlkMEi.png)
+
+  *Figure: Preview of the X login clone page.*
+</details>
+
+<details>
+  <summary>▶ Red Themed Login Page</summary>
+
+  ![Preview](https://i.imgur.com/n3oa6xi.png)
+  
+  *Figure: Smooth sleek login page template.*
+</details>
+
+<details>
   <summary>▶ Minimalist Glass</summary>
 
   ![Preview](https://camo.githubusercontent.com/14c06db275366d7ec3894f2ad7642e0e49543d3917da2a6d1e41c9cf1b538152/68747470733a2f2f692e696d6775722e636f6d2f44496e474a6a6c2e6a706567)
